@@ -1,6 +1,6 @@
 # *> Package Name <*
 
-A repository template for framweork extensions. Framweork extensions are CSM shaped utilities and tools for frameworks and languages used during development.
+A repository for a framweork extensions package. Framweork extensions are CSM shaped utilities and tools for frameworks and languages used during development.
 
 [Changelog](> CHANGELOG file link <)
 

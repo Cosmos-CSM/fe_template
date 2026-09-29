@@ -18,5 +18,6 @@ Fixes for bugs or problems detected.
 
 ### **Upgrades**
 
-| Name | Old Version | New Version | Comments |
-| ---  | ---         | ---         | ---      |
+| Package                                 | Old Version      | New Version     | Comments |
+|:----------------------------------------|:----------------:|:---------------:| :------- |
+|                                         |                  |                 |          |
